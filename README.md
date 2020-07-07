@@ -74,4 +74,5 @@ if menu == 1:
 ```
 실행 예시 [콘솔 프로그램]
 ------------
-<img src="1.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt=""></img>
+<img src="1.jpg" width="60%"></img>
+
