@@ -74,5 +74,6 @@ if menu == 1:
 ```
 실행 예시 [콘솔 프로그램]
 ------------
-<img src="1.png" width="60%"></img>
+<img src="1.PNG" width="60%"></img>
+<img src="2.PNG" width="60%"></img>
 
