@@ -76,5 +76,5 @@ if menu == 1:
 실행 예시 [콘솔 프로그램]
 ------------
 ![1](https://user-images.githubusercontent.com/52600701/89152602-70120680-d59e-11ea-8c31-67206547a0ed.PNG)
-![2](https://user-images.githubusercontent.com/52600701/89152604-70aa9d00-d59e-11ea-8dff-3aa6cb53d435.PNG)
+![2](https://user-images.githubusercontent.com/52600701/89152894-d434ca80-d59e-11ea-8e2b-a9ed755789ce.PNG)
 
